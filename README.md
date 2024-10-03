@@ -54,4 +54,6 @@ git log # versión larga
 git log --oneline # versión corta
 ```
 
+# Aclaración
 
+Estoy practicando como agregar archivos
